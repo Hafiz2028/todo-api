@@ -16,7 +16,7 @@ RESTful API aplikasi Todo List menggunakan Laravel 12.
 
 1.  **Clone Repository**
     ```bash
-    git clone [URL_GIT_ANDA]
+    git clone https://github.com/Hafiz2028/todo-api.git
     cd todo-api
     ```
 
